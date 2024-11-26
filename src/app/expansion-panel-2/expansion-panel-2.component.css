@@ -1,0 +1,10 @@
+mat-panel-title{
+    color: red;
+    background-color: aqua;
+    font-family: cursive;
+}
+
+
+mat-expansion-panel{
+    width: 1000px;
+}
